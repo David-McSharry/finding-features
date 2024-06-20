@@ -1,0 +1,13 @@
+__pycache__
+wandb/
+*.pth
+*.jsonl
+datasets
+*.npy
+*.pt
+*.png
+*.jpg
+*.jpeg
+*.json
+venv
+.cache
